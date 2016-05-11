@@ -1,2 +1,5 @@
-# STCK_Server_RPi
-STCK Server (RPi)
+# socketServer
+sudo apt-get install python-dev python-pip gcc
+
+sudo pip install python-evdev
+
